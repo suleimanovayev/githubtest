@@ -4,5 +4,6 @@ public class Main {
         System.out.println("werty");
         System.out.println("again");
         System.out.println("6 7 8");
+        System.out.println("hello");
     }
 }
